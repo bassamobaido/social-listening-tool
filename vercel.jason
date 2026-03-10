@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd Social-Listening-Tool-Thmanyah-claude-revamp-design-system-Nan9K && npm install && npm run build",
+  "outputDirectory": "Social-Listening-Tool-Thmanyah-claude-revamp-design-system-Nan9K/dist",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
